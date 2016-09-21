@@ -10,6 +10,7 @@ public class SetupInitTest {
 	@Test
 	public void test() {
 		assertTrue(true);
+		assertTrue(true);
 		assertTrue(false);
 	}
 
