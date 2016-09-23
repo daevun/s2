@@ -10,4 +10,8 @@
   		<version>4.12</version>
   	</dependency>
   </dependencies>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>TestModule</module>
+  </modules>
 </project>

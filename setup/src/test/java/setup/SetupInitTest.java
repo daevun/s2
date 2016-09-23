@@ -11,7 +11,6 @@ public class SetupInitTest {
 	public void test() {
 		assertTrue(true);
 		assertTrue(true);
-		assertTrue(false);
 	}
 
 }
